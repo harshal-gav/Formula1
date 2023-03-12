@@ -2,15 +2,6 @@
 
 ## Formula 1 CRUD API - Spring Boot & MySQL
 
-## Index
-  * [General description](#general-description)
-  * [Technical specification](#technical-specification)
-  * [Installation](#installation)
-    + [Maven](#maven)
-    + [Docker compose](#docker-compose-)
-  * [Using the API](#using-the-api)
-  * [Closing thoughts](#closing-thoughts)
-
 
 ## General description
 This proyect is a REST API of F1 drivers that allows the user to fetch, add, update and delete them as you wish.
@@ -82,9 +73,3 @@ You should see something like this:
 
 You're all set! 🏎️✨ Now you can refer to the <a href="https://documenter.getpostman.com/view/10146128/2s93JoxRFG" target="_blank">**API's Documentation**</a>
 
-## Closing thoughts
-I hope you enjoy this little passion project of mine, and thanks to [@DaianaArena](https://github.com/DaianaArena) for creating the banner image!
-
-To whoever read this far, thank you very much and best regards!
-
-_<p align="right">Matías Carabella - Back-end Developer</p>_
